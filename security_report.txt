@@ -1,0 +1,59 @@
+=== SECURITY ANALYSIS REPORT ===
+Successful logins: 24
+Failed logins: 24
+Unknown results: 1
+
+=== FAILED LOGIN ANALYSIS ===
+
+IP Address: 192.168.1.14
+Failed Attempts: 1
+
+IP Address: 192.168.1.33
+Failed Attempts: 4
+SECURITY ALERT: Repeated failed logins!
+
+IP Address: 192.168.1.55
+Failed Attempts: 1
+
+IP Address: 192.168.1.39
+Failed Attempts: 3
+SECURITY ALERT: Repeated failed logins!
+
+IP Address: 192.168.1.60
+Failed Attempts: 1
+
+IP Address: 192.168.2.3
+Failed Attempts: 1
+
+IP Address: 192.168.1.64
+Failed Attempts: 1
+
+IP Address: 192.168.1.68
+Failed Attempts: 2
+
+IP Address: 192.168.1.78
+Failed Attempts: 2
+
+IP Address: 192.168.2.68
+Failed Attempts: 1
+
+IP Address: 192.168.1.74
+Failed Attempts: 1
+
+IP Address: 192.168.2.5
+Failed Attempts: 1
+
+IP Address: 192.168.1.76
+Failed Attempts: 1
+
+IP Address: 192.168.1.7
+Failed Attempts: 1
+
+IP Address: 192.168.1.90
+Failed Attempts: 1
+
+IP Address: 192.168.1.84
+Failed Attempts: 1
+
+IP Address: 192.168.1.85
+Failed Attempts: 1
